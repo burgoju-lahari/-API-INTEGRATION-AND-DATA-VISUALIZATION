@@ -52,4 +52,9 @@ Data Visualization Dashboards – This method can be expanded into a complete da
 
 This task was a great introduction to working with APIs and visualizing data in a beginner-friendly way. It provided hands-on experience with Python, API handling, and basic data visualization, which are useful skills in data analysis and software development.
 
+*OUTPUT:*
+
+![Image](https://github.com/user-attachments/assets/cf8b7815-901c-4976-9ad0-e4015315ebf3)
+
+
 
