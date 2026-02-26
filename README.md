@@ -1,18 +1,5 @@
 # -API-INTEGRATION-AND-DATA-VISUALIZATION
 
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : Burgoju Lahari
-
-*INTERN ID* : CT04WU108
-
-*DOMAIN* : Python Programming
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
-
 *Task: API Integration and Data Visualization*
 
 As part of my internship, I worked on a task involving API integration and data visualization using Python. The objective was to fetch real-time weather data from OpenWeatherMap API and create a simple visual representation of the data.
