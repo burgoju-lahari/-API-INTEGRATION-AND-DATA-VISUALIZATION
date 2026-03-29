@@ -2,7 +2,7 @@
 
 *Task: API Integration and Data Visualization*
 
-As part of my internship, I worked on a task involving API integration and data visualization using Python. The objective was to fetch real-time weather data from OpenWeatherMap API and create a simple visual representation of the data.
+ I worked on a task involving API integration and data visualization using Python. The objective was to fetch real-time weather data from OpenWeatherMap API and create a simple visual representation of the data.
 
 
 *Tools and Platform Used:*
